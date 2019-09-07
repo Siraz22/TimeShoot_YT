@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 82b73db04f5630248a820df1b38dabe8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DyingVFX: {fileID: 163064, guid: 2bdc186a2c521f1488fe14cb4a745323, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
